@@ -1,0 +1,9 @@
+wfd:
+  appetizer:
+    order: 1
+    type: appetizer
+    menu:
+      - Hummus
+      - Crab Cakes
+      - Chicken Satay
+      - Mozzerella Sticks
